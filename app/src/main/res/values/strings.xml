@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ServiceMediaPlayer</string>
+    <string name="service_title">Play a Song!</string>
+    <string name="start_service_btn">PLAY</string>
+    <string name="stop_service_btn">STOP</string>
+</resources>
